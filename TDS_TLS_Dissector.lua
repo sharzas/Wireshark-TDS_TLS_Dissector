@@ -3,7 +3,7 @@
 
     Author : Kenneth Nielsen (ken@jndata.dk)
     Version: 1.0
-    License: GNU General Public License
+    License: GNU General Public License v3.0
 
     Description:
     This is not by any means a "real" dissector. It was written to overcome the fact that
